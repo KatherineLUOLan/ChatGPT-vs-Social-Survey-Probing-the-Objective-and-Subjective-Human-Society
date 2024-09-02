@@ -4,23 +4,18 @@ import json
 import requests
 import openai
 
-# 读取WVS.dta文件
-file_path = ('........dta')  # Stata数据文件的路径
+file_path = ('........dta') 
 df = pd.read_stata(file_path, columns=['sex', 'age', 'ethnic', 'education', 'income', 'chief', 'region'])
-# 定义列名
 columns = ['sex', 'age', 'ethnic', 'education', 'income', 'chief', 'region']
 
-
-# API设置
-# 设置API
+# API
 url = "https://gpt-api.hkust-gz.edu.cn/v1/chat/completions"
 headers = {
     "Content-Type": "application/json",
     "Authorization":..........."
 }
 
-
-#定义问卷
+# Definite questionnaire
 questions = [
     {
     "question_name":"gender_first",
@@ -45,7 +40,6 @@ questions = [
 ]
 
 
-# 自定义代理方法
 def create_agent_response(respondent, questions):
     # Define the number of maximum attempts for each question
     attempts = 3
@@ -117,7 +111,6 @@ def create_agent_response(respondent, questions):
 
     return responses  # Return the collected responses
 
-
 def parse_response(response_text, questions):
     answers = {}
     response_parts = response_text.split('Answer:')
@@ -133,10 +126,6 @@ def parse_response(response_text, questions):
             reason = part[:reason_end].strip()
             answer = part[reason_end + 7:].strip()
 
-            # 确保答案是选项之一
-            #if answer not in question["question_options"]:
-            #    answer = "Invalid answer"
-
             answers[reason_key] = reason
             answers[answer_key] = answer
         else:
@@ -150,8 +139,7 @@ generated_dataset = []
 
 for index, row in df.iterrows():
     respondent = {col: row[col] for col in columns}
-
-    # 模拟代理回答
+    
     answers = create_agent_response(respondent, questions)
 
     row_data = {
@@ -167,11 +155,8 @@ for index, row in df.iterrows():
     generated_dataset.append(row_data)
 
     print(f"Processed respondent index: {index}")
-
-# 将提取的数据保存到DataFrame
+# save
 df = pd.DataFrame(generated_dataset)
-
-# Save to CSV
 df.to_csv('...........csv', index=False)
 
 print("Data has been written to output.csv")
