@@ -4,23 +4,17 @@ import json
 import requests
 import openai
 
-# 读取WVS.dta文件
-file_path = ('........dta')  # Stata数据文件的路径
+file_path = ('........dta') 
 df = pd.read_stata(file_path, columns=['sex', 'age', 'ethnic', 'education', 'income', 'chief', 'region'])
-# 定义列名
 columns = ['sex', 'age', 'ethnic', 'education', 'income', 'chief', 'region']
 
-
-# API设置
-# 设置API
+# API
 url = "https://gpt-api.hkust-gz.edu.cn/v1/chat/completions"
 headers = {
     "Content-Type": "application/json",
-    "Authorization": "......"
+    "Authorization": "Your API......"
 }
 
-
-#定义问卷
 questions = [
     {
     "question_name":"income_first",
@@ -82,7 +76,6 @@ def create_agent_response(respondent, questions):
                 answer = response_text[answer_start:answer_end].strip()
                 reason = response_text[answer_end + 7:].strip()
 
-                # 检查答案是否为空或是否是有效的整数
                 try:
                     parsed_answer = int(answer)
                     if parsed_answer in question["question_options"]:
@@ -93,7 +86,6 @@ def create_agent_response(respondent, questions):
                         question_answered = True
                         break
                 except ValueError:
-                    # 如果答案无法转换为整数，跳过当前循环到下一次尝试
                     continue
 
         if not question_answered:
@@ -103,8 +95,6 @@ def create_agent_response(respondent, questions):
             responses[answer_key] = "No answer provided"
 
     return responses
-
-
 
 def parse_response(response_text, questions):
     answers = {}
@@ -121,10 +111,6 @@ def parse_response(response_text, questions):
             reason = part[:reason_end].strip()
             answer = part[reason_end + 7:].strip()
 
-            # 确保答案是选项之一
-            #if answer not in question["question_options"]:
-            #    answer = "Invalid answer"
-
             answers[reason_key] = reason
             answers[answer_key] = answer
         else:
@@ -139,7 +125,6 @@ generated_dataset = []
 for index, row in df.iterrows():
     respondent = {col: row[col] for col in columns}
 
-    # 模拟代理回答
     answers = create_agent_response(respondent, questions)
 
     row_data = {
@@ -156,10 +141,7 @@ for index, row in df.iterrows():
 
     print(f"Processed respondent index: {index}")
 
-# 将提取的数据保存到DataFrame
 df = pd.DataFrame(generated_dataset)
-
-# Save to CSV
 df.to_csv('.......csv', index=False)
 
 print("Data has been written to output.csv")
