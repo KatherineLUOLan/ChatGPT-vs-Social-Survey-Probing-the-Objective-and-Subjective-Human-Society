@@ -73,7 +73,7 @@ if len(generated_dataset) >= 200:
     generated_dataset = generated_dataset[:200]
 
 # save
-csv_file = 'WVSUSGENDER001.csv'
+csv_file = '.......csv'
 with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     writer.writerow(['sex', 'age', 'ethnic', 'education', 'income', 'chief', 'region', 'Answer to Question 1', 'Answer to Question 2', 'Answer to Question 3', 'Answer to Question 4'])
