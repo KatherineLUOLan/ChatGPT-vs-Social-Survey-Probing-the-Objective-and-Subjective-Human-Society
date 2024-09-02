@@ -3,15 +3,14 @@ import csv
 import json
 import requests
 
-# 读取WVS.dta文件
-file_path = ('WVSUSGENDER200.dta')  # Stata数据文件的路径
+file_path = ('WVSUSGENDER200.dta')  # Path to the Stata data file
 df = pd.read_stata(file_path, columns=['sex', 'age', 'ethnic', 'education', 'income', 'chief', 'region'])
 
-# API设置
+# API
 url = "https://gpt-api.hkust-gz.edu.cn/v1/chat/completions"
 headers = {
     "Content-Type": "application/json",
-    "Authorization": "acb0f9d12f78421e81a921e55c5789bc4f64ba4f021949f087b6c48e7f16fcd2"
+    "Authorization": "Your API"
 }
 
 prompt_template = """Given a person, who is an American, with sex {sex}, age {age}, ethnic {ethnic}, the highest educational level {education}, household income level {income}, status whether is the chief wage earner in his house {chief} and region {region}, answer the following survey questions as a respondent would in a survey conducted in 2017:
@@ -22,9 +21,8 @@ Question 4: Think of score 1 as strongly agree, score 2 as agree, score 3 as nei
 """
 
 generated_dataset = []
-max_records = 50  # 设置最大记录数为200
+max_records = 50  
 
-# 处理每一行数据
 for index, row in df.iterrows():
     if index >= max_records:
         break
@@ -38,7 +36,6 @@ for index, row in df.iterrows():
     region = row['region']
     prompt = prompt_template.format(sex=sex, age=age, ethnic=ethnic, education=education, income=income, chief=chief, region=region)
 
-    # 发送请求
     data = {
         "model": "gpt-3.5-turbo",
         "messages": [{"role": "user", "content": prompt}],
@@ -51,10 +48,9 @@ for index, row in df.iterrows():
     generated_data = response.json()
     data_content = generated_data['choices'][0]['message']['content']
 
-    # 打印data_content来检查内容
+    # check
     print(data_content)
 
-    # 解析回答
     q1_start = data_content.find('Question 1:')
     q2_start = data_content.find('Question 2:')
     q3_start = data_content.find('Question 3:')
@@ -66,21 +62,17 @@ for index, row in df.iterrows():
         answer_q4 = data_content[q4_start + len('Question 4:'):].strip()
     else:
         print("Cannot find answers in response for row:", index)
-        # 设置答案为None或空字符串
         answer_q1 = ''
         answer_q2 = ''
         answer_q3 = ''
         answer_q4 = ''
 
-    # 添加到数据集
     generated_dataset.append([sex, age, ethnic, education, income, chief, region, answer_q1, answer_q2, answer_q3, answer_q4])
 
-
-# 检查生成的记录数量
 if len(generated_dataset) >= 200:
     generated_dataset = generated_dataset[:200]
 
-# 将数据保存为CSV文件
+# save
 csv_file = 'WVSUSGENDER001.csv'
 with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
