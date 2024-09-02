@@ -3,14 +3,14 @@ import csv
 import json
 import requests
 
-file_path = ('WVSUSGENDER200.dta')  # Path to the Stata data file
+file_path = ('.......dta')  # Path to the Stata data file
 df = pd.read_stata(file_path, columns=['sex', 'age', 'ethnic', 'education', 'income', 'chief', 'region'])
 
 # API
 url = "https://gpt-api.hkust-gz.edu.cn/v1/chat/completions"
 headers = {
     "Content-Type": "application/json",
-    "Authorization": "Your API"
+    "Authorization": "Your API......"
 }
 
 prompt_template = """Given a person, who is an American, with sex {sex}, age {age}, ethnic {ethnic}, the highest educational level {education}, household income level {income}, status whether is the chief wage earner in his house {chief} and region {region}, answer the following survey questions as a respondent would in a survey conducted in 2017:
