@@ -3,7 +3,6 @@
 """
 Created on Sun Oct 29 23:34:25 2023
 
-@author: luyu
 """
 
 import csv
