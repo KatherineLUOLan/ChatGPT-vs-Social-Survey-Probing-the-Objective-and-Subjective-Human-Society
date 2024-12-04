@@ -9,7 +9,7 @@ import csv
 import requests
 import json
 
-url="https://gpt-api.hkust-gz.edu.cn/v1/chat/completions"
+url=""
 headers = {
    "Content-Type":"application/json",
    "Authorization": "Your API......" 
