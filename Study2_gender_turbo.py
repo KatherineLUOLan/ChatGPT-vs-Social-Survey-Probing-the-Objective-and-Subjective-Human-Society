@@ -7,7 +7,7 @@ file_path = ('.......dta')  # Path to the Stata data file
 df = pd.read_stata(file_path, columns=['sex', 'age', 'ethnic', 'education', 'income', 'chief', 'region'])
 
 # API
-url = "https://gpt-api.hkust-gz.edu.cn/v1/chat/completions"
+url = ""
 headers = {
     "Content-Type": "application/json",
     "Authorization": "Your API......"
