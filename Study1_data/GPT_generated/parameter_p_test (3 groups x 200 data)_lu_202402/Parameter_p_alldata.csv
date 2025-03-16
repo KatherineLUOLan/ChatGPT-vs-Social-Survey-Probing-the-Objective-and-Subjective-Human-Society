@@ -1,0 +1,601 @@
+Group,Gender,Age,Race,Education,Income,Region
+p0,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,male,22,Hispanic or Latino,"Some college, no degree","$15,000 to $24,999",urban
+p0,female,55,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0,male,40,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,28,Black or African American,"Some college, no degree","$25,000 to $34,999",rural
+p0,male,60,White,High school graduate,"$50,000 to $74,999",rural
+p0,female,35,Hispanic or Latino,Associate's degree,"$35,000 to $49,999",urban
+p0,male,50,White,"Some college, no degree","$50,000 to $74,999",rural
+p0,female,18,Black or African American,Less than 9th grade,"Less than $10,000",urban
+p0,male,48,White,Bachelor's degree,"$100,000 to $149,999",urban
+p0,female,32,Asian,"Some college, no degree","$25,000 to $34,999",urban
+p0,male,27,Hispanic or Latino,High school graduate,"$25,000 to $34,999",rural
+p0,female,42,White,Bachelor's degree,"$75,000 to $99,999",urban
+p0,male,38,Black or African American,"Some college, no degree","$35,000 to $49,999",rural
+p0,female,20,White,"Some college, no degree","$15,000 to $24,999",urban
+p0,male,52,Hispanic or Latino,High school graduate,"$50,000 to $74,999",rural
+p0,female,47,White,Associate's degree,"$50,000 to $74,999",urban
+p0,male,33,Black or African American,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,25,White,"Some college, no degree","$25,000 to $34,999",rural
+p0,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,male,22,Hispanic or Latino,"Some college, no degree","$15,000 to $24,999",urban
+p0,female,55,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0,male,40,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,28,Black or African American,"Some college, no degree","$25,000 to $34,999",rural
+p0,male,60,White,High school graduate,"$50,000 to $74,999",rural
+p0,female,35,Hispanic or Latino,Associate's degree,"$35,000 to $49,999",urban
+p0,male,50,White,"Some college, no degree","$75,000 to $99,999",urban
+p0,female,18,Black or African American,Less than 9th grade,"Less than $10,000",rural
+p0,male,48,White,Bachelor's degree,"$100,000 to $149,999",urban
+p0,female,38,Hispanic or Latino,High school graduate,"$25,000 to $34,999",urban
+p0,male,32,Asian,"Some college, no degree","$50,000 to $74,999",urban
+p0,female,42,White,Bachelor's degree,"$75,000 to $99,999",rural
+p0,male,20,Black or African American,"Some college, no degree","$15,000 to $24,999",urban
+p0,female,52,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p0,male,58,Hispanic or Latino,High school graduate,"$35,000 to $49,999",rural
+p0,female,26,White,"Some college, no degree","$25,000 to $34,999",urban
+p0,male,44,Black or African American,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,33,White,Associate's degree,"$50,000 to $74,999",rural
+p0,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,male,22,Hispanic or Latino,"Some college, no degree","$15,000 to $24,999",urban
+p0,female,55,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0,male,40,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,28,White,"Some college, no degree","$25,000 to $34,999",rural
+p0,male,50,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,female,35,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",urban
+p0,male,60,White,High school graduate,"$50,000 to $74,999",rural
+p0,female,32,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0,male,48,White,"Some college, no degree","$35,000 to $49,999",rural
+p0,female,27,Black or African American,"Some college, no degree","$25,000 to $34,999",urban
+p0,male,38,Hispanic or Latino,High school graduate,"$35,000 to $49,999",urban
+p0,female,42,White,Bachelor's degree,"$75,000 to $99,999",rural
+p0,male,33,Asian,"Some college, no degree","$50,000 to $74,999",urban
+p0,female,29,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0,male,44,Black or African American,Associate's degree,"$50,000 to $74,999",rural
+p0,female,31,Hispanic or Latino,High school graduate,"$35,000 to $49,999",urban
+p0,male,52,White,Bachelor's degree,"$75,000 to $99,999",rural
+p0,female,26,Asian,"Some college, no degree","$25,000 to $34,999",urban
+p0,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,male,22,Hispanic or Latino,"Some college, no degree","$15,000 to $24,999",urban
+p0,female,55,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0,male,40,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,28,Black or African American,"Some college, no degree","$25,000 to $34,999",rural
+p0,male,60,White,High school graduate,"$50,000 to $74,999",rural
+p0,female,35,Hispanic or Latino,Associate's degree,"$35,000 to $49,999",urban
+p0,male,50,White,"Some college, no degree","$50,000 to $74,999",urban
+p0,female,18,Black or African American,Less than 9th grade,"Less than $10,000",rural
+p0,male,48,White,Bachelor's degree,"$100,000 to $149,999",urban
+p0,female,32,Asian,"Some college, no degree","$35,000 to $49,999",urban
+p0,male,27,Hispanic or Latino,High school graduate,"$25,000 to $34,999",urban
+p0,female,38,White,Bachelor's degree,"$75,000 to $99,999",rural
+p0,male,42,Black or African American,"Some college, no degree","$50,000 to $74,999",urban
+p0,female,20,White,"Some college, no degree","$15,000 to $24,999",rural
+p0,male,52,Hispanic or Latino,Graduate or professional degree,"$150,000 to $199,999",urban
+p0,female,44,White,Associate's degree,"$50,000 to $74,999",rural
+p0,male,33,Black or African American,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,25,Asian,"Some college, no degree","$35,000 to $49,999",urban
+p0,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,male,22,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",urban
+p0,female,55,White,Associate's degree,"$75,000 to $99,999",urban
+p0,male,40,Asian,Bachelor's degree,"$100,000 to $149,999",urban
+p0,female,28,Black or African American,"Some college, no degree","$35,000 to $49,999",rural
+p0,male,60,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p0,female,35,Hispanic or Latino,High school graduate,"$25,000 to $34,999",rural
+p0,male,50,White,High school graduate,"$50,000 to $74,999",urban
+p0,female,32,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0,male,48,Black or African American,"Some college, no degree","$35,000 to $49,999",rural
+p0,female,27,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",urban
+p0,male,38,White,Bachelor's degree,"$100,000 to $149,999",urban
+p0,female,42,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,male,33,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",urban
+p0,female,29,White,Associate's degree,"$75,000 to $99,999",urban
+p0,male,44,Asian,Bachelor's degree,"$100,000 to $149,999",urban
+p0,female,31,Black or African American,"Some college, no degree","$35,000 to $49,999",rural
+p0,male,39,Hispanic or Latino,High school graduate,"$25,000 to $34,999",urban
+p0,female,26,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,male,22,Hispanic or Latino,"Some college, no degree","$15,000 to $24,999",urban
+p0,female,55,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0,male,40,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,28,Black or African American,"Some college, no degree","$25,000 to $34,999",rural
+p0,male,60,White,High school graduate,"$50,000 to $74,999",rural
+p0,female,35,Hispanic or Latino,Associate's degree,"$35,000 to $49,999",urban
+p0,male,50,White,"Some college, no degree","$50,000 to $74,999",urban
+p0,female,18,Black or African American,Less than 9th grade,"Less than $10,000",rural
+p0,male,48,White,Bachelor's degree,"$100,000 to $149,999",urban
+p0,female,32,Asian,"Some college, no degree","$25,000 to $34,999",urban
+p0,male,27,Hispanic or Latino,High school graduate,"$25,000 to $34,999",urban
+p0,female,42,White,Bachelor's degree,"$75,000 to $99,999",rural
+p0,male,38,Black or African American,"Some college, no degree","$35,000 to $49,999",urban
+p0,female,20,White,"Some college, no degree","$15,000 to $24,999",rural
+p0,male,52,Hispanic or Latino,High school graduate,"$50,000 to $74,999",rural
+p0,female,47,White,Associate's degree,"$50,000 to $74,999",urban
+p0,male,33,Black or African American,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,25,White,"Some college, no degree","$35,000 to $49,999",rural
+p0,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,male,22,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",urban
+p0,female,55,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0,male,40,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,28,Black or African American,"Some college, no degree","$35,000 to $49,999",rural
+p0,male,50,White,High school graduate,"$50,000 to $74,999",rural
+p0,female,35,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",urban
+p0,male,60,White,Bachelor's degree,"$100,000 to $149,999",rural
+p0,female,18,Asian,"Some college, no degree","$15,000 to $24,999",urban
+p0,male,48,Black or African American,"Some college, no degree","$35,000 to $49,999",rural
+p0,female,38,White,"Some college, no degree","$35,000 to $49,999",urban
+p0,male,65,White,High school graduate,"$50,000 to $74,999",rural
+p0,female,20,Hispanic or Latino,Less than 9th grade,"Less than $10,000",urban
+p0,male,42,White,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,32,Black or African American,"Some college, no degree","$35,000 to $49,999",rural
+p0,male,55,White,Graduate or professional degree,"$150,000 to $199,999",rural
+p0,female,25,Hispanic or Latino,High school graduate,"$25,000 to $34,999",urban
+p0,male,40,White,"Some college, no degree","$50,000 to $74,999",urban
+p0,female,30,Black or African American,Bachelor's degree,"$50,000 to $74,999",rural
+p0,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,male,22,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",urban
+p0,female,55,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0,male,40,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,28,Black or African American,"Some college, no degree","$35,000 to $49,999",urban
+p0,male,60,White,High school graduate,"$50,000 to $74,999",rural
+p0,female,35,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",urban
+p0,male,50,White,"Some college, no degree","$75,000 to $99,999",rural
+p0,female,18,Black or African American,Less than 9th grade,"Less than $10,000",rural
+p0,male,48,Asian,Bachelor's degree,"$100,000 to $149,999",urban
+p0,female,32,Hispanic or Latino,"Some college, no degree","$35,000 to $49,999",urban
+p0,male,27,White,High school graduate,"$25,000 to $34,999",urban
+p0,female,42,Black or African American,Bachelor's degree,"$75,000 to $99,999",rural
+p0,male,38,Hispanic or Latino,"Some college, no degree","$50,000 to $74,999",urban
+p0,female,20,White,"Some college, no degree","$15,000 to $24,999",urban
+p0,male,52,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,female,47,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",urban
+p0,male,33,White,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,25,Black or African American,"Some college, no degree","$35,000 to $49,999",urban
+p0,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,male,22,Hispanic or Latino,"Some college, no degree","$15,000 to $24,999",urban
+p0,female,55,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0,male,40,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,28,White,"Some college, no degree","$25,000 to $34,999",rural
+p0,male,50,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,female,35,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",urban
+p0,male,60,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p0,female,18,Asian,High school graduate,"$15,000 to $24,999",rural
+p0,male,32,White,"Some college, no degree","$35,000 to $49,999",urban
+p0,female,48,Black or African American,Bachelor's degree,"$75,000 to $99,999",urban
+p0,male,27,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",rural
+p0,female,42,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0,male,38,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,33,White,"Some college, no degree","$35,000 to $49,999",rural
+p0,male,55,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,female,40,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",urban
+p0,male,65,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p0,female,20,Asian,High school graduate,"$15,000 to $24,999",rural
+p0,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,male,22,Hispanic or Latino,"Some college, no degree","$15,000 to $24,999",urban
+p0,female,55,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0,male,40,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0,female,28,White,"Some college, no degree","$25,000 to $34,999",rural
+p0,male,50,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0,female,35,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",urban
+p0,male,60,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p0,female,18,Asian,High school graduate,"$15,000 to $24,999",rural
+p0,male,48,White,"Some college, no degree","$50,000 to $74,999",urban
+p0,female,38,Black or African American,Bachelor's degree,"$75,000 to $99,999",urban
+p0,male,33,Hispanic or Latino,"Some college, no degree","$35,000 to $49,999",rural
+p0,female,27,White,High school graduate,"$25,000 to $34,999",urban
+p0,male,42,Asian,Bachelor's degree,"$100,000 to $149,999",urban
+p0,female,52,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p0,male,20,Black or African American,"Some college, no degree","$15,000 to $24,999",rural
+p0,female,47,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",urban
+p0,male,58,White,Graduate or professional degree,"$200,000 or more",urban
+p0,female,32,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0.5,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0.5,male,22,Hispanic or Latino,"Some college, no degree","$15,000 to $24,999",urban
+p0.5,female,55,White,Associate's degree,"$75,000 to $99,999",urban
+p0.5,male,40,Asian,Bachelor's degree,"$100,000 to $149,999",urban
+p0.5,female,28,White,"Some college, no degree","$25,000 to $34,999",rural
+p0.5,male,50,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0.5,female,35,Hispanic or Latino,Bachelor's degree,"$50,000 to $74,999",urban
+p0.5,male,60,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p0.5,female,18,Asian,High school graduate,"$15,000 to $24,999",rural
+p0.5,male,48,White,"Some college, no degree","$35,000 to $49,999",rural
+p0.5,female,38,Black or African American,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,male,27,Hispanic or Latino,High school graduate,"$25,000 to $34,999",urban
+p0.5,female,33,White,"Some college, no degree","$35,000 to $49,999",rural
+p0.5,male,52,Black or African American,Bachelor's degree,"$100,000 to $149,999",urban
+p0.5,female,42,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",urban
+p0.5,male,29,White,"Some college, no degree","$25,000 to $34,999",rural
+p0.5,female,47,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0.5,male,32,Hispanic or Latino,Bachelor's degree,"$50,000 to $74,999",urban
+p0.5,female,44,White,"Some college, no degree","$35,000 to $49,999",rural
+p0.5,male,35,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0.5,female,45,Black or African American,"Some college, no degree","$35,000 to $49,999",rural
+p0.5,male,28,Hispanic or Latino,High school graduate,"$25,000 to $34,999",urban
+p0.5,female,50,Asian,Associate's degree,"$75,000 to $99,999",urban
+p0.5,male,60,White,Graduate or professional degree,"$100,000 to $149,999",rural
+p0.5,female,22,Two or more races,"Some college, no degree","$15,000 to $24,999",urban
+p0.5,male,40,Black or African American,Bachelor's degree,"$50,000 to $74,999",rural
+p0.5,female,55,White,High school graduate,"$35,000 to $49,999",urban
+p0.5,male,30,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",urban
+p0.5,female,48,Asian,Bachelor's degree,"$75,000 to $99,999",rural
+p0.5,male,33,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0.5,female,20,Two or more races,"Some college, no degree","$15,000 to $24,999",urban
+p0.5,male,38,Black or African American,Bachelor's degree,"$50,000 to $74,999",rural
+p0.5,female,42,White,High school graduate,"$35,000 to $49,999",urban
+p0.5,male,27,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",urban
+p0.5,female,52,Asian,Associate's degree,"$75,000 to $99,999",urban
+p0.5,male,58,White,Graduate or professional degree,"$100,000 to $149,999",rural
+p0.5,female,24,Two or more races,"Some college, no degree","$15,000 to $24,999",urban
+p0.5,male,43,Black or African American,Bachelor's degree,"$50,000 to $74,999",rural
+p0.5,female,47,White,High school graduate,"$35,000 to $49,999",urban
+p0.5,male,35,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0.5,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0.5,male,28,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",urban
+p0.5,female,50,White,Associate's degree,"$75,000 to $99,999",urban
+p0.5,male,60,Asian,Graduate or professional degree,"$100,000 to $149,999",urban
+p0.5,female,22,Two or more races,"Some college, no degree","$15,000 to $24,999",rural
+p0.5,male,40,Black or African American,High school graduate,"$35,000 to $49,999",urban
+p0.5,female,55,White,Bachelor's degree,"$100,000 to $149,999",rural
+p0.5,male,32,Hispanic or Latino,"Some college, no degree","$35,000 to $49,999",urban
+p0.5,female,48,White,"Some college, no degree","$50,000 to $74,999",rural
+p0.5,male,30,Black or African American,High school graduate,"$25,000 to $34,999",urban
+p0.5,female,38,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,male,42,White,Associate's degree,"$75,000 to $99,999",rural
+p0.5,female,27,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",urban
+p0.5,male,33,Black or African American,"Some college, no degree","$35,000 to $49,999",rural
+p0.5,female,43,White,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,male,29,Asian,Graduate or professional degree,"$100,000 to $149,999",urban
+p0.5,female,47,Hispanic or Latino,"Some college, no degree","$50,000 to $74,999",rural
+p0.5,male,31,Black or African American,High school graduate,"$25,000 to $34,999",urban
+p0.5,female,39,White,Associate's degree,"$75,000 to $99,999",urban
+p0.5,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0.5,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0.5,male,22,Hispanic or Latino,"Some college, no degree","$15,000 to $24,999",urban
+p0.5,female,55,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0.5,male,40,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,female,28,White,"Some college, no degree","$25,000 to $34,999",rural
+p0.5,male,60,White,High school graduate,"$50,000 to $74,999",rural
+p0.5,female,35,Hispanic or Latino,Associate's degree,"$35,000 to $49,999",urban
+p0.5,male,50,Black or African American,"Some college, no degree","$50,000 to $74,999",urban
+p0.5,female,32,White,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,male,27,Asian,"Some college, no degree","$35,000 to $49,999",rural
+p0.5,female,48,White,High school graduate,"$25,000 to $34,999",rural
+p0.5,male,38,Hispanic or Latino,Bachelor's degree,"$100,000 to $149,999",urban
+p0.5,female,42,Black or African American,"Some college, no degree","$50,000 to $74,999",urban
+p0.5,male,33,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p0.5,female,29,Asian,High school graduate,"$25,000 to $34,999",rural
+p0.5,male,52,White,Bachelor's degree,"$100,000 to $149,999",rural
+p0.5,female,44,Hispanic or Latino,"Some college, no degree","$35,000 to $49,999",urban
+p0.5,male,31,Black or African American,Associate's degree,"$50,000 to $74,999",urban
+p0.5,female,26,White,"Some college, no degree","$35,000 to $49,999",rural
+p0.5,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0.5,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0.5,male,22,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",urban
+p0.5,female,55,White,Associate's degree,"$75,000 to $99,999",urban
+p0.5,male,40,Asian,Bachelor's degree,"$100,000 to $149,999",urban
+p0.5,female,28,White,"Some college, no degree","$35,000 to $49,999",rural
+p0.5,male,60,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p0.5,female,35,Hispanic or Latino,High school graduate,"$15,000 to $24,999",rural
+p0.5,male,50,Black or African American,"Some college, no degree","$50,000 to $74,999",urban
+p0.5,female,18,White,Less than 9th grade,"Less than $10,000",rural
+p0.5,male,33,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,female,48,White,"Some college, no degree","$50,000 to $74,999",rural
+p0.5,male,27,Hispanic or Latino,High school graduate,"$25,000 to $34,999",urban
+p0.5,female,42,Black or African American,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,male,38,White,"Some college, no degree","$35,000 to $49,999",rural
+p0.5,female,20,Asian,"Some college, no degree","$15,000 to $24,999",urban
+p0.5,male,52,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0.5,female,44,Hispanic or Latino,High school graduate,"$35,000 to $49,999",rural
+p0.5,male,29,Black or African American,"Some college, no degree","$25,000 to $34,999",urban
+p0.5,female,37,White,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,male,35,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0.5,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0.5,male,28,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",urban
+p0.5,female,50,White,Associate's degree,"$75,000 to $99,999",urban
+p0.5,male,60,Asian,Graduate or professional degree,"$100,000 to $149,999",urban
+p0.5,female,22,Two or more races,"Some college, no degree","$15,000 to $24,999",rural
+p0.5,male,40,White,High school graduate,"$50,000 to $74,999",rural
+p0.5,female,55,Black or African American,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,male,32,Hispanic or Latino,"Some college, no degree","$35,000 to $49,999",urban
+p0.5,female,48,White,"Some college, no degree","$50,000 to $74,999",rural
+p0.5,male,30,Black or African American,High school graduate,"$25,000 to $34,999",urban
+p0.5,female,38,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,male,42,White,"Some college, no degree","$35,000 to $49,999",rural
+p0.5,female,58,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",urban
+p0.5,male,26,Black or African American,"Some college, no degree","$25,000 to $34,999",urban
+p0.5,female,33,White,High school graduate,"$35,000 to $49,999",rural
+p0.5,male,47,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,female,52,Hispanic or Latino,"Some college, no degree","$50,000 to $74,999",rural
+p0.5,male,29,White,High school graduate,"$35,000 to $49,999",urban
+p0.5,female,44,Black or African American,Associate's degree,"$75,000 to $99,999",urban
+p0.5,male,35,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0.5,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0.5,male,28,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",urban
+p0.5,female,50,White,Associate's degree,"$75,000 to $99,999",urban
+p0.5,male,60,Asian,Bachelor's degree,"$100,000 to $149,999",urban
+p0.5,female,40,White,"Some college, no degree","$50,000 to $74,999",rural
+p0.5,male,22,Black or African American,High school graduate,"$15,000 to $24,999",urban
+p0.5,female,55,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p0.5,male,32,Hispanic or Latino,"Some college, no degree","$35,000 to $49,999",rural
+p0.5,female,48,White,Bachelor's degree,"$100,000 to $149,999",urban
+p0.5,male,30,Black or African American,"Some college, no degree","$25,000 to $34,999",urban
+p0.5,female,38,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,male,42,White,High school graduate,"$50,000 to $74,999",rural
+p0.5,female,58,Hispanic or Latino,"Some college, no degree","$35,000 to $49,999",urban
+p0.5,male,26,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0.5,female,33,Black or African American,"Some college, no degree","$25,000 to $34,999",rural
+p0.5,male,44,Asian,Graduate or professional degree,"$100,000 to $149,999",urban
+p0.5,female,52,White,Associate's degree,"$75,000 to $99,999",urban
+p0.5,male,36,Hispanic or Latino,Bachelor's degree,"$75,000 to $99,999",rural
+p0.5,female,47,White,"Some college, no degree","$50,000 to $74,999",urban
+p0.5,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0.5,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0.5,male,22,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",urban
+p0.5,female,55,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0.5,male,40,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,female,28,White,"Some college, no degree","$35,000 to $49,999",rural
+p0.5,male,50,Black or African American,High school graduate,"$50,000 to $74,999",urban
+p0.5,female,35,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",urban
+p0.5,male,60,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p0.5,female,18,Asian,"Some college, no degree","$15,000 to $24,999",rural
+p0.5,male,48,White,Bachelor's degree,"$100,000 to $149,999",urban
+p0.5,female,38,Black or African American,"Some college, no degree","$35,000 to $49,999",rural
+p0.5,male,33,Hispanic or Latino,High school graduate,"$25,000 to $34,999",urban
+p0.5,female,42,White,"Some college, no degree","$50,000 to $74,999",urban
+p0.5,male,27,Asian,Bachelor's degree,"$50,000 to $74,999",urban
+p0.5,female,52,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0.5,male,44,Black or African American,High school graduate,"$50,000 to $74,999",urban
+p0.5,female,36,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",urban
+p0.5,male,58,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p0.5,female,20,Asian,"Some college, no degree","$15,000 to $24,999",rural
+p0.5,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0.5,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0.5,male,22,Hispanic or Latino,"Some college, no degree","$15,000 to $24,999",urban
+p0.5,female,55,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0.5,male,40,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,female,28,Black or African American,"Some college, no degree","$25,000 to $34,999",rural
+p0.5,male,60,White,High school graduate,"$50,000 to $74,999",rural
+p0.5,female,35,Hispanic or Latino,Associate's degree,"$35,000 to $49,999",urban
+p0.5,male,50,White,"Some college, no degree","$50,000 to $74,999",rural
+p0.5,female,32,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,male,27,Black or African American,High school graduate,"$25,000 to $34,999",urban
+p0.5,female,48,White,Graduate or professional degree,"$100,000 to $149,999",rural
+p0.5,male,38,Hispanic or Latino,"Some college, no degree","$35,000 to $49,999",urban
+p0.5,female,42,White,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,male,33,Black or African American,High school graduate,"$25,000 to $34,999",rural
+p0.5,female,52,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0.5,male,29,Hispanic or Latino,"Some college, no degree","$35,000 to $49,999",urban
+p0.5,female,47,White,Bachelor's degree,"$75,000 to $99,999",rural
+p0.5,male,31,Black or African American,High school graduate,"$25,000 to $34,999",urban
+p0.5,female,50,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0.5,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p0.5,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p0.5,male,22,Hispanic or Latino,"Some college, no degree","$15,000 to $24,999",urban
+p0.5,female,55,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p0.5,male,40,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,female,60,White,High school graduate,"$50,000 to $74,999",rural
+p0.5,male,28,Black or African American,"Some college, no degree","$25,000 to $34,999",urban
+p0.5,female,35,Hispanic or Latino,Associate's degree,"$35,000 to $49,999",rural
+p0.5,male,50,White,"Some college, no degree","$50,000 to $74,999",rural
+p0.5,female,48,Black or African American,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,male,32,Asian,Graduate or professional degree,"$100,000 to $149,999",urban
+p0.5,female,38,Hispanic or Latino,High school graduate,"$25,000 to $34,999",rural
+p0.5,male,42,White,Bachelor's degree,"$75,000 to $99,999",urban
+p0.5,female,27,Black or African American,"Some college, no degree","$35,000 to $49,999",urban
+p0.5,male,44,Hispanic or Latino,High school graduate,"$35,000 to $49,999",rural
+p0.5,female,33,White,Associate's degree,"$50,000 to $74,999",urban
+p0.5,male,29,Asian,"Some college, no degree","$25,000 to $34,999",urban
+p0.5,female,39,Black or African American,Bachelor's degree,"$75,000 to $99,999",rural
+p0.5,male,31,Hispanic or Latino,High school graduate,"$35,000 to $49,999",urban
+p0.5,female,37,White,"Some college, no degree","$50,000 to $74,999",rural
+p1,male,30,White,High school graduate,"$35,000 to $49,999",urban
+p1,female,45,Black or African American,Bachelor's degree,"$75,000 to $99,999",rural
+p1,male,22,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",urban
+p1,female,50,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p1,male,35,Asian,Associate's degree,"$50,000 to $74,999",rural
+p1,female,28,Black or African American,"Some college, no degree","$35,000 to $49,999",urban
+p1,male,40,White,Bachelor's degree,"$100,000 to $149,999",urban
+p1,female,60,White,High school graduate,"$50,000 to $74,999",rural
+p1,male,55,Black or African American,"Some college, no degree","$35,000 to $49,999",urban
+p1,female,32,Hispanic or Latino,Bachelor's degree,"$75,000 to $99,999",urban
+p1,male,27,Asian,"Some college, no degree","$25,000 to $34,999",urban
+p1,female,48,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p1,male,38,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p1,female,52,White,Bachelor's degree,"$100,000 to $149,999",urban
+p1,male,33,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",rural
+p1,female,29,Black or African American,"Some college, no degree","$35,000 to $49,999",urban
+p1,male,42,White,Bachelor's degree,"$100,000 to $149,999",urban
+p1,female,55,White,High school graduate,"$50,000 to $74,999",rural
+p1,male,47,Black or African American,"Some college, no degree","$35,000 to $49,999",urban
+p1,female,34,Hispanic or Latino,Bachelor's degree,"$75,000 to $99,999",urban
+p1,male,23,White,"Some college, no degree","$35,000 to $49,999",urban
+p1,female,35,Black or African American,High school graduate,"$25,000 to $34,999",rural
+p1,male,40,Hispanic or Latino,Bachelor's degree,"$50,000 to $74,999",urban
+p1,female,28,Asian,"Some college, no degree","$35,000 to $49,999",urban
+p1,male,50,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p1,male,18,Two or more races,Less than 9th grade,"Less than $10,000",rural
+p1,female,30,White,Associate's degree,"$50,000 to $74,999",urban
+p1,male,45,Black or African American,"Some college, no degree","$35,000 to $49,999",urban
+p1,female,60,White,High school graduate,"$15,000 to $24,999",rural
+p1,male,29,Hispanic or Latino,Bachelor's degree,"$50,000 to $74,999",urban
+p1,female,38,Asian,"Some college, no degree","$35,000 to $49,999",urban
+p1,male,55,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p1,male,20,Two or more races,Less than 9th grade,"Less than $10,000",rural
+p1,female,34,White,Associate's degree,"$50,000 to $74,999",urban
+p1,male,49,Black or African American,"Some college, no degree","$35,000 to $49,999",urban
+p1,female,65,White,High school graduate,"$15,000 to $24,999",rural
+p1,male,33,Hispanic or Latino,Bachelor's degree,"$50,000 to $74,999",urban
+p1,female,42,Asian,"Some college, no degree","$35,000 to $49,999",urban
+p1,male,58,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p1,male,21,Two or more races,Less than 9th grade,"Less than $10,000",rural
+p1,male,25,White,"Some college, no degree","$50,000 to $74,999",urban
+p1,female,40,Hispanic or Latino,High school graduate,"$25,000 to $34,999",rural
+p1,male,60,White,Bachelor's degree,"$100,000 to $149,999",urban
+p1,female,30,Black or African American,"Some college, no degree","$35,000 to $49,999",rural
+p1,female,45,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p1,male,18,Asian,High school graduate,"$15,000 to $24,999",rural
+p1,male,55,White,"Some college, no degree","$75,000 to $99,999",urban
+p1,female,28,White,Associate's degree,"$50,000 to $74,999",rural
+p1,male,50,White,High school graduate,"$50,000 to $74,999",urban
+p1,female,35,Hispanic or Latino,Bachelor's degree,"$100,000 to $149,999",rural
+p1,male,22,Black or African American,"Some college, no degree","$25,000 to $34,999",urban
+p1,female,42,White,"Some college, no degree","$35,000 to $49,999",rural
+p1,female,65,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p1,male,19,Asian,High school graduate,"$15,000 to $24,999",rural
+p1,male,58,White,"Some college, no degree","$75,000 to $99,999",urban
+p1,female,32,White,Associate's degree,"$50,000 to $74,999",rural
+p1,male,43,White,High school graduate,"$50,000 to $74,999",urban
+p1,female,38,Hispanic or Latino,Bachelor's degree,"$100,000 to $149,999",rural
+p1,female,21,Black or African American,"Some college, no degree","$25,000 to $34,999",urban
+p1,male,47,White,"Some college, no degree","$35,000 to $49,999",rural
+p1,male,28,White,Bachelor's degree,"$50,000 to $74,999",urban
+p1,female,40,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p1,male,22,Asian,"Some college, no degree","$25,000 to $34,999",urban
+p1,female,55,Hispanic or Latino,Associate's degree,"$75,000 to $99,999",urban
+p1,female,50,White,Bachelor's degree,"$100,000 to $149,999",urban
+p1,male,35,Black or African American,"Some college, no degree","$35,000 to $49,999",rural
+p1,female,30,Asian,Bachelor's degree,"$50,000 to $74,999",urban
+p1,male,45,Hispanic or Latino,High school graduate,"$35,000 to $49,999",rural
+p1,female,60,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p1,male,18,Two or more races,Less than 9th grade,"Less than $10,000",rural
+p1,male,70,White,"Some college, no degree","$25,000 to $34,999",rural
+p1,female,38,Black or African American,Bachelor's degree,"$75,000 to $99,999",urban
+p1,female,28,Asian,High school graduate,"$15,000 to $24,999",urban
+p1,male,60,White,Graduate or professional degree,"$200,000 or more",urban
+p1,female,26,Hispanic or Latino,"Some college, no degree","$35,000 to $49,999",urban
+p1,male,42,Black or African American,Bachelor's degree,"$100,000 to $149,999",urban
+p1,female,34,Asian,"Some college, no degree","$50,000 to $74,999",urban
+p1,male,47,White,High school graduate,"$50,000 to $74,999",rural
+p1,female,52,Hispanic or Latino,Associate's degree,"$75,000 to $99,999",rural
+p1,male,29,Black or African American,"Some college, no degree","$35,000 to $49,999",urban
+p1,male,35,White,Bachelor's degree,"$50,000 to $74,999",urban
+p1,female,45,Black or African American,High school graduate,"$25,000 to $34,999",rural
+p1,male,28,Hispanic or Latino,"Some college, no degree","$35,000 to $49,999",urban
+p1,female,55,White,Associate's degree,"$75,000 to $99,999",urban
+p1,male,40,Asian,Bachelor's degree,"$100,000 to $149,999",urban
+p1,female,60,White,"Some college, no degree","$50,000 to $74,999",rural
+p1,male,20,Black or African American,High school graduate,"$10,000 to $14,999",urban
+p1,female,30,Hispanic or Latino,"Some college, no degree","$15,000 to $24,999",rural
+p1,male,50,White,High school graduate,"$35,000 to $49,999",rural
+p1,female,65,White,Bachelor's degree,"$100,000 to $149,999",urban
+p1,male,33,Asian,Graduate or professional degree,"$150,000 to $199,999",urban
+p1,female,42,Black or African American,"Some college, no degree","$25,000 to $34,999",urban
+p1,male,52,Hispanic or Latino,"Some college, no degree","$50,000 to $74,999",rural
+p1,female,29,White,Bachelor's degree,"$75,000 to $99,999",rural
+p1,male,38,Black or African American,High school graduate,"$35,000 to $49,999",urban
+p1,female,47,Asian,Associate's degree,"$50,000 to $74,999",urban
+p1,male,63,White,"Some college, no degree","$50,000 to $74,999",rural
+p1,female,32,Hispanic or Latino,High school graduate,"$25,000 to $34,999",urban
+p1,male,44,White,Bachelor's degree,"$100,000 to $149,999",rural
+p1,female,27,Black or African American,"Some college, no degree","$35,000 to $49,999",urban
+p1,male,35,White,Bachelor's degree,"$75,000 to $99,999",urban
+p1,female,42,Black or African American,High school graduate,"$50,000 to $74,999",urban
+p1,male,50,Hispanic or Latino,"Some college, no degree","$35,000 to $49,999",urban
+p1,female,28,White,Associate's degree,"$25,000 to $34,999",urban
+p1,male,65,White,Graduate or professional degree,"$100,000 to $149,999",rural
+p1,female,33,Asian,"Some college, no degree","$50,000 to $74,999",rural
+p1,male,45,White,Bachelor's degree,"$75,000 to $99,999",urban
+p1,female,22,White,"Some college, no degree","$25,000 to $34,999",urban
+p1,male,54,Black or African American,High school graduate,"$50,000 to $74,999",rural
+p1,female,37,Hispanic or Latino,Bachelor's degree,"$100,000 to $149,999",urban
+p1,male,32,White,"Some college, no degree","$50,000 to $74,999",urban
+p1,female,47,White,High school graduate,"$35,000 to $49,999",rural
+p1,male,29,White,Associate's degree,"$25,000 to $34,999",urban
+p1,female,39,Black or African American,"Some college, no degree","$35,000 to $49,999",urban
+p1,male,58,Hispanic or Latino,Graduate or professional degree,"$200,000 or more",rural
+p1,female,41,White,High school graduate,"$35,000 to $49,999",urban
+p1,male,27,Asian,Bachelor's degree,"$50,000 to $74,999",urban
+p1,female,44,White,"Some college, no degree","$25,000 to $34,999",rural
+p1,male,36,White,Bachelor's degree,"$75,000 to $99,999",urban
+p1,female,31,Black or African American,High school graduate,"$35,000 to $49,999",urban
+p1,male,30,White,Bachelor's degree,"$50,000 to $74,999",urban
+p1,female,45,Black or African American,High school graduate,"$35,000 to $49,999",rural
+p1,male,22,Hispanic or Latino,"Some college, no degree","$15,000 to $24,999",urban
+p1,female,50,White,Associate's degree,"$75,000 to $99,999",urban
+p1,male,60,Asian,Graduate or professional degree,"$100,000 to $149,999",urban
+p1,female,35,Black or African American,"Some college, no degree","$25,000 to $34,999",rural
+p1,male,40,Hispanic or Latino,High school graduate,"$50,000 to $74,999",urban
+p1,female,28,White,Bachelor's degree,"$50,000 to $74,999",urban
+p1,male,55,Black or African American,Bachelor's degree,"$100,000 to $149,999",rural
+p1,female,20,Asian,"Some college, no degree","$15,000 to $24,999",urban
+p1,male,70,White,Graduate or professional degree,"$200,000 or more",urban
+p1,female,42,Hispanic or Latino,"Some college, no degree","$35,000 to $49,999",rural
+p1,male,38,Black or African American,High school graduate,"$35,000 to $49,999",urban
+p1,female,48,White,Bachelor's degree,"$75,000 to $99,999",urban
+p1,male,26,Asian,"Some college, no degree","$25,000 to $34,999",rural
+p1,female,32,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",urban
+p1,male,58,White,Graduate or professional degree,"$150,000 to $199,999",rural
+p1,female,22,Black or African American,"Some college, no degree","$15,000 to $24,999",urban
+p1,male,47,Asian,Bachelor's degree,"$100,000 to $149,999",urban
+p1,female,36,Hispanic or Latino,"Some college, no degree","$35,000 to $49,999",rural
+p1,female,22,White,High school graduate,"$25,000 to $34,999",rural
+p1,male,38,Black or African American,Bachelor's degree,"$75,000 to $99,999",urban
+p1,male,50,Hispanic or Latino,"Some college, no degree","$50,000 to $74,999",rural
+p1,female,32,White,Associate's degree,"$35,000 to $49,999",urban
+p1,male,45,White,Graduate or professional degree,"$100,000 to $149,999",urban
+p1,female,28,Asian,"Some college, no degree","$15,000 to $24,999",rural
+p1,male,63,White,High school graduate,"$50,000 to $74,999",rural
+p1,female,39,Black or African American,Bachelor's degree,"$75,000 to $99,999",urban
+p1,female,20,Asian,"Some college, no degree","$15,000 to $24,999",urban
+p1,male,57,White,Bachelor's degree,"$100,000 to $149,999",rural
+p1,female,42,White,"Some college, no degree","$35,000 to $49,999",urban
+p1,female,30,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",rural
+p1,male,46,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p1,female,55,White,High school graduate,"$35,000 to $49,999",rural
+p1,female,33,Black or African American,"Some college, no degree","$15,000 to $24,999",urban
+p1,male,34,White,Bachelor's degree,"$75,000 to $99,999",urban
+p1,female,27,Asian,"Some college, no degree","$15,000 to $24,999",rural
+p1,male,48,Hispanic or Latino,Associate's degree,"$50,000 to $74,999",rural
+p1,male,51,White,Graduate or professional degree,"$150,000 to $199,999",urban
+p1,female,41,White,High school graduate,"$35,000 to $49,999",urban
+p1,male,25,White,"Some college, no degree","$50,000 to $74,999",urban
+p1,female,30,Black or African American,High school graduate,"$25,000 to $34,999",rural
+p1,male,40,Hispanic or Latino,Bachelor's degree,"$75,000 to $99,999",urban
+p1,female,55,Asian,Graduate or professional degree,"$100,000 to $149,999",urban
+p1,male,20,Two or more races,"Some college, no degree","$15,000 to $24,999",rural
+p1,female,45,White,Associate's degree,"$50,000 to $74,999",urban
+p1,male,35,Black or African American,High school graduate,"$35,000 to $49,999",urban
+p1,female,28,Hispanic or Latino,"Some college, no degree","$25,000 to $34,999",rural
+p1,male,50,White,Bachelor's degree,"$100,000 to $149,999",urban
+p1,female,60,American Indian and Alaska Native,High school graduate,"$35,000 to $49,999",rural
+p1,male,33,Asian,Graduate or professional degree,"$150,000 to $199,999",urban
+p1,female,22,Hispanic or Latino,"Some college, no degree","$15,000 to $24,999",rural
+p1,male,27,Black or African American,"Some college, no degree","$35,000 to $49,999",urban
+p1,female,38,White,Associate's degree,"$50,000 to $74,999",urban
+p1,male,48,Asian,Bachelor's degree,"$100,000 to $149,999",urban
+p1,female,32,Hispanic or Latino,High school graduate,"$25,000 to $34,999",rural
+p1,male,42,Black or African American,"Some college, no degree","$35,000 to $49,999",urban
+p1,female,29,White,Bachelor's degree,"$75,000 to $99,999",urban
+p1,male,37,Hispanic or Latino,"Some college, no degree","$35,000 to $49,999",rural
+p1,female,26,Black or African American,High school graduate,"$25,000 to $34,999",urban
+p1,male,30,White,High school graduate,"$35,000 to $49,999",rural
+p1,female,45,Black or African American,Bachelor's degree,"$50,000 to $74,999",urban
+p1,female,20,Hispanic or Latino,"Some college, no degree","$15,000 to $24,999",urban
+p1,male,65,White,Graduate or professional degree,"$100,000 to $149,999",rural
+p1,female,35,Asian,Associate's degree,"$75,000 to $99,999",urban
+p1,male,55,White,"Some college, no degree","$50,000 to $74,999",rural
+p1,female,40,White,High school graduate,"$35,000 to $49,999",urban
+p1,male,50,White,Bachelor's degree,"$100,000 to $149,999",urban
+p1,female,28,Black or African American,"Some college, no degree","$25,000 to $34,999",urban
+p1,male,18,White,Less than 9th grade,"Less than $10,000",rural
+p1,male,60,White,High school graduate,"$50,000 to $74,999",rural
+p1,female,32,White,"Some college, no degree","$35,000 to $49,999",urban
+p1,male,42,Asian,Bachelor's degree,"$75,000 to $99,999",urban
+p1,male,22,Hispanic or Latino,Associate's degree,"$25,000 to $34,999",urban
+p1,female,48,White,Graduate or professional degree,"$150,000 to $199,999",rural
+p1,male,38,White,"Some college, no degree","$50,000 to $74,999",rural
+p1,female,27,Black or African American,High school graduate,"$15,000 to $24,999",urban
+p1,male,45,White,Bachelor's degree,"$100,000 to $149,999",urban
+p1,female,33,White,"Some college, no degree","$35,000 to $49,999",rural
+p1,male,55,White,Graduate or professional degree,"$150,000 to $199,999",urban
